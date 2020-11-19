@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SiginButton</string>
+    <string name="facebook_app_id">187879879561320</string> <string name="fb_login_protocol_scheme">fb187879879561320</string>
+
+</resources>
